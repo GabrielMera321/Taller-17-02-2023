@@ -3,7 +3,8 @@
 
 A human resources company asked the head programmer to create a program that is able to add, read delete and update all of its members including their full name, document number, age and place in the company. 
 ## UML Class Diagram
-![Diagrama en blanco](https://user-images.githubusercontent.com/91750351/218358100-169f91a3-bc41-4453-a96a-2465e55feac4.png)
+![Diagrama en blanco](![Diagrama en blanco (1)](https://user-images.githubusercontent.com/127044104/223004401-02062d58-4887-4ffe-ac5b-9bb0d7c72679.png)
+)
 
 
 ![Recursos-Humanos](https://user-images.githubusercontent.com/105569564/218094006-9df44ffb-4b7f-4150-898e-2f244fb8cf22.jpg)
